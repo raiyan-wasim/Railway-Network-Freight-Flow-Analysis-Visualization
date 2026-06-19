@@ -50,33 +50,33 @@ Search stations using station names and station codes.
 
 Identify feasible routes between source and destination stations using shortest-path techniques.
 
-![Route Analysis](route analysis.png)
+![Route Analysis](route-analysis.png)
 
 ### Freight Flow Analysis
 
 Analyze freight movement capability and network connectivity between Origin-Destination (O-D) pairs.
 
-![Freight Flow](freight flow.png)
+![Freight Flow](freight-flow.png)
 
 ### Interactive GIS Visualization
 
 Visualize the railway network on an interactive map built using Folium.
 
-![Complete Network](complete project.png)
+![Complete Network](complete-project.png)
 
 ### Network Exploration
 
 Inspect station and section attributes through interactive node and edge tooltips.
 
-![Node Tooltip](node tooltip.png)
+![Node Tooltip](node-tooltip.png)
 
-![Edge Tooltip](edge tooltip.png)
+![Edge Tooltip](edge-tooltip.png)
 
 ### Route Filtering
 
 Filter the network using operational and infrastructure attributes.
 
-![Route Filter](route filter.png)
+![Route Filter](route-filter.png)
 
 ---
 
