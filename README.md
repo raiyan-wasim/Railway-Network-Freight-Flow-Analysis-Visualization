@@ -44,7 +44,7 @@ The resulting system enables users to explore the railway network and evaluate a
 
 Search stations using station names and station codes.
 
-![Station Search](search support.png)
+![Station Search](search-support.png)
 
 ### Route Analysis
 
